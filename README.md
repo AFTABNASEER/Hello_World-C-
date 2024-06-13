@@ -1,2 +1,2 @@
 # Hello_World-C-
-Create a Hello world program and then commits three changes
+Create a Hello World program and then commit three changes
